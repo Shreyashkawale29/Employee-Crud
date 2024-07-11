@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "employees": [
+    {
+      "firstname": "Shreyash",
+      "lastname": "Kawale",
+      "email": "sk@gmail.com",
+      "dob": "2001-10-28T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduate",
+      "company": "Telegram",
+      "experience": 2,
+      "package": 88,
+      "id": 1
+    },
+    {
+      "firstname": "vishal",
+      "lastname": "Gaikwad",
+      "email": "vg@gmail.com",
+      "dob": "2001-08-23T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduate",
+      "company": "Trader",
+      "experience": 4,
+      "package": 100,
+      "id": 2
+    },
+    {
+      "firstname": "Dhyaneshwar",
+      "lastname": "kendre",
+      "email": "dk@gmail.com",
+      "dob": "2001-07-05T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduate",
+      "company": "Qspider",
+      "experience": 2,
+      "package": 50,
+      "id": 3
+    },
+    {
+      "firstname": "Ajay",
+      "lastname": "Karwate",
+      "email": "ak@gmail.com",
+      "dob": "2001-06-16T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduate",
+      "company": "Class 1 Officer",
+      "experience": 6,
+      "package": 86,
+      "id": 4
+    },
+    {
+      "firstname": "Chetan",
+      "lastname": "Ingle",
+      "email": "chetan@gmail.com",
+      "dob": "1999-11-10T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduate",
+      "company": "Tomcat",
+      "experience": 5,
+      "package": 84,
+      "id": 5
+    }
+  ]
+}
